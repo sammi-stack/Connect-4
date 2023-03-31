@@ -1,4 +1,4 @@
-# connect-4 Game
+# Connect 4 Game
 
 Objectives:
 1) All concepts of programming fundamentals
@@ -7,3 +7,13 @@ Objectives:
 4) Function
 5) Array (one-dimensional, Multi-dimensional)
 6) File Handling
+e
+e
+e
+e
+e
+e
+e
+e
+
+ee
