@@ -1,4 +1,9 @@
 # connect-4 Game
-Objective
-Write a C++ program to create a connect Four game with the following features.
-eee
+
+Objectives:
+• All concepts of programming fundamentals
+• Control Structure (Selection)
+• Control Structure (Repetitive/ Loops)
+• Function
+• Array (one-dimensional, Multi-dimensional)
+• File Handling
