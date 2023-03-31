@@ -1,11 +1,11 @@
 # Connect 4 Game
 
 Objectives:
-1) All concepts of programming fundamentals
+• All concepts of programming fundamentals
 
-2) Control Structure (Selection)
+• Control Structure (Selection)
 
-3) Control Structure (Repetitive/ Loops)
+Control Structure (Repetitive/ Loops)
 
 Function
 
